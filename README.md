@@ -1,2 +1,9 @@
 ### Calculator
-This script allows the user to enter two numbers and perform an operation on the numbers. Once an equation has been created, the user have the option to save it into a default file or to choose which file the user want to save it into. The option to retrieve the content (in form of equations) of a file to the console is given as well. Contains several menus to handle exceptions.
+
+This script enables the user to perform operations on two numbers. It offers the following features:
+
+1. Enter two numbers and perform an operation.
+2. Save the equation into a default file or choose a custom file to save it.
+3. Retrieve the content (equations) of a file and display it on the console.
+
+The script contains several menus to handle exceptions and ensure smooth execution.
